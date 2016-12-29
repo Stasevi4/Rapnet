@@ -1,0 +1,21 @@
+{
+  "name": "stasevi4/rapnet",
+  "description": "Rapnet Feed Download",
+  "require": {
+    "php": ">=5.4.0",
+    "guzzlehttp/guzzle": "6.2.2"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stanislav P",
+      "email": "stas@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Stasevi4\\Rapnet": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
